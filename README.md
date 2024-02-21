@@ -109,8 +109,7 @@ This is an admin based  mini web project developed for the management of the rec
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@MishanKhatri](https://github.com/Mishankhatri)
-- [@Kushal_pangeni](https://github.com/Kushal213)
+- [@Suryakumar](https://github.com/suryakumar-selvakumar)
 
 <br>
 
