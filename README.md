@@ -23,7 +23,7 @@
 - [Features](#features)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
+- [Author](#author)
 - [Quick Preview](#preview)
 
 <br>
@@ -107,7 +107,7 @@ This is an admin based  mini web project developed for the management of the rec
 
 <br>
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Author <a name = "author"></a>
 
 - [@Suryakumar](https://github.com/suryakumar-selvakumar)
 
